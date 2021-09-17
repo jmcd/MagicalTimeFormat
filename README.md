@@ -1,5 +1,7 @@
 Inspired by Go's [Time.Format](https://pkg.go.dev/time#Time.Format) [Layout](https://pkg.go.dev/time#Layout), this package allows you to produce a [custom .NET date/time format](https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings) by providing the layout of a reference date formatted example.
 
+[Install nuget package](https://www.nuget.org/packages/MagicalTimeFormat/).
+
 ```c#
 var formatFactory = new FormatFactory();
 
