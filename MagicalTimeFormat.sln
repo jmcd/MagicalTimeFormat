@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicalTimeFormat", "MagicalTimeFormat\MagicalTimeFormat.csproj", "{D0A0620D-5FEA-4ECC-8268-60AF1EA26364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicalTimeFormat.Tests", "MagicalTimeFormat.Tests\MagicalTimeFormat.Tests.csproj", "{22CB1490-46C2-454E-91BF-F7832CD54921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A0620D-5FEA-4ECC-8268-60AF1EA26364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A0620D-5FEA-4ECC-8268-60AF1EA26364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A0620D-5FEA-4ECC-8268-60AF1EA26364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A0620D-5FEA-4ECC-8268-60AF1EA26364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CB1490-46C2-454E-91BF-F7832CD54921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CB1490-46C2-454E-91BF-F7832CD54921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CB1490-46C2-454E-91BF-F7832CD54921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CB1490-46C2-454E-91BF-F7832CD54921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
